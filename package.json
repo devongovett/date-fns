@@ -13,7 +13,6 @@
     "url": "https://github.com/sponsors/kossnocorp"
   },
   "sideEffects": false,
-  "browser": "./index",
   "type": "module",
   "main": "index.cjs",
   "module": "index.js",
